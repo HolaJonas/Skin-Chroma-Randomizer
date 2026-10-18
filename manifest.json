@@ -1,0 +1,8 @@
+{
+  "name": "Skin-Chroma-Randomizer",
+  "id": "skin-chroma-randomizer",
+  "version": "1.0.0",
+  "author": "HolaJonas",
+  "description": "A Pengu Plugin adding a settings menu to enable random skin and random chroma selection.",
+  "entry": "index.js"
+}
